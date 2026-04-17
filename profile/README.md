@@ -10,6 +10,7 @@ Important git repositories for `conda-forge` documentation, status, and governan
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [conda-forge-metadata](https://github.com/conda-forge/conda-forge-metadata) - API access to conda-forge's metadata
+- [security](https://github.com/conda-forge/security) - Centralized location to report security issues
 
 Important git repositories for users/maintainers
 - [staged-recipes](https://github.com/conda-forge/staged-recipes) - The place to submit new recipes
