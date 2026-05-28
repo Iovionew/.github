@@ -29,4 +29,4 @@ Other Infrastructure-related git repositories
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
 - [conda-forge-feedstock-ops](https://github.com/conda-forge/conda-forge-feedstock-ops) - Containerized maintenance operations for feedstocks
-- [autotick-bot-graph](https://github.com/conda-forge/autotick-bot-graph) - Backend metadata for the `autotick-bot` infrastructure
+- [conda-forge-bot-graph](https://github.com/conda-forge/conda-forge-bot-graph) - Backend metadata for the `conda-forge-bot` infrastructure
